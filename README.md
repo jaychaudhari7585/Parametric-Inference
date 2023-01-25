@@ -1,2 +1,2 @@
-# jassos
-linear regression
+# Parametric Inference
+
